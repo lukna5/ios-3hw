@@ -7,6 +7,21 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		046BA83A2979FF2D0000A40F /* Collections in Frameworks */ = {isa = PBXBuildFile; productRef = 046BA8392979FF2D0000A40F /* Collections */; };
+		046BA83C2979FF2D0000A40F /* DequeModule in Frameworks */ = {isa = PBXBuildFile; productRef = 046BA83B2979FF2D0000A40F /* DequeModule */; };
+		046BA83E2979FF2D0000A40F /* OrderedCollections in Frameworks */ = {isa = PBXBuildFile; productRef = 046BA83D2979FF2D0000A40F /* OrderedCollections */; };
+		049428F12979CFAD002168B8 /* StarActive.png in Resources */ = {isa = PBXBuildFile; fileRef = 049428F02979CFAD002168B8 /* StarActive.png */; };
+		049428F32979CFF2002168B8 /* Star.png in Resources */ = {isa = PBXBuildFile; fileRef = 049428F22979CFF2002168B8 /* Star.png */; };
+		049428F52979D43D002168B8 /* Cell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 049428F42979D43D002168B8 /* Cell.xib */; };
+		049428F72979D52E002168B8 /* Cell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 049428F62979D52E002168B8 /* Cell.swift */; };
+		04B9FF6A2979B5D2008E9DF5 /* Primary.png in Resources */ = {isa = PBXBuildFile; fileRef = 04B9FF612979B5D1008E9DF5 /* Primary.png */; };
+		04B9FF6B2979B5D2008E9DF5 /* saveButton.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 04B9FF622979B5D2008E9DF5 /* saveButton.jpg */; };
+		04B9FF6D2979B5D2008E9DF5 /* okSave.png in Resources */ = {isa = PBXBuildFile; fileRef = 04B9FF642979B5D2008E9DF5 /* okSave.png */; };
+		04B9FF6E2979B5D2008E9DF5 /* save.pdf in Resources */ = {isa = PBXBuildFile; fileRef = 04B9FF652979B5D2008E9DF5 /* save.pdf */; };
+		04B9FF6F2979B5D2008E9DF5 /* CategoryView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B9FF662979B5D2008E9DF5 /* CategoryView.swift */; };
+		04B9FF702979B5D2008E9DF5 /* Star.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B9FF672979B5D2008E9DF5 /* Star.swift */; };
+		04B9FF712979B5D2008E9DF5 /* SaveFilmView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B9FF682979B5D2008E9DF5 /* SaveFilmView.swift */; };
+		04B9FF722979B5D2008E9DF5 /* Stars.swift in Sources */ = {isa = PBXBuildFile; fileRef = 04B9FF692979B5D2008E9DF5 /* Stars.swift */; };
 		8AF7D98F28E5E1460025EBB4 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AF7D98E28E5E1460025EBB4 /* AppDelegate.swift */; };
 		8AF7D99128E5E1460025EBB4 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AF7D99028E5E1460025EBB4 /* SceneDelegate.swift */; };
 		8AF7D99328E5E1460025EBB4 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 8AF7D99228E5E1460025EBB4 /* ViewController.swift */; };
@@ -16,6 +31,18 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		049428F02979CFAD002168B8 /* StarActive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = StarActive.png; sourceTree = "<group>"; };
+		049428F22979CFF2002168B8 /* Star.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Star.png; sourceTree = "<group>"; };
+		049428F42979D43D002168B8 /* Cell.xib */ = {isa = PBXFileReference; lastKnownFileType = file.xib; path = Cell.xib; sourceTree = "<group>"; };
+		049428F62979D52E002168B8 /* Cell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Cell.swift; sourceTree = "<group>"; };
+		04B9FF612979B5D1008E9DF5 /* Primary.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = Primary.png; sourceTree = "<group>"; };
+		04B9FF622979B5D2008E9DF5 /* saveButton.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = saveButton.jpg; sourceTree = "<group>"; };
+		04B9FF642979B5D2008E9DF5 /* okSave.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = okSave.png; sourceTree = "<group>"; };
+		04B9FF652979B5D2008E9DF5 /* save.pdf */ = {isa = PBXFileReference; lastKnownFileType = image.pdf; path = save.pdf; sourceTree = "<group>"; };
+		04B9FF662979B5D2008E9DF5 /* CategoryView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CategoryView.swift; sourceTree = "<group>"; };
+		04B9FF672979B5D2008E9DF5 /* Star.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Star.swift; sourceTree = "<group>"; };
+		04B9FF682979B5D2008E9DF5 /* SaveFilmView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SaveFilmView.swift; sourceTree = "<group>"; };
+		04B9FF692979B5D2008E9DF5 /* Stars.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Stars.swift; sourceTree = "<group>"; };
 		8AF7D98B28E5E1460025EBB4 /* ios-itmo-2022-assignment2.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "ios-itmo-2022-assignment2.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8AF7D98E28E5E1460025EBB4 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		8AF7D99028E5E1460025EBB4 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -31,6 +58,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				046BA83A2979FF2D0000A40F /* Collections in Frameworks */,
+				046BA83C2979FF2D0000A40F /* DequeModule in Frameworks */,
+				046BA83E2979FF2D0000A40F /* OrderedCollections in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -56,9 +86,21 @@
 		8AF7D98D28E5E1460025EBB4 /* ios-itmo-2022-assignment2 */ = {
 			isa = PBXGroup;
 			children = (
+				049428F22979CFF2002168B8 /* Star.png */,
+				049428F02979CFAD002168B8 /* StarActive.png */,
+				04B9FF662979B5D2008E9DF5 /* CategoryView.swift */,
+				04B9FF642979B5D2008E9DF5 /* okSave.png */,
+				04B9FF612979B5D1008E9DF5 /* Primary.png */,
+				04B9FF652979B5D2008E9DF5 /* save.pdf */,
+				04B9FF622979B5D2008E9DF5 /* saveButton.jpg */,
+				04B9FF672979B5D2008E9DF5 /* Star.swift */,
+				04B9FF692979B5D2008E9DF5 /* Stars.swift */,
+				04B9FF682979B5D2008E9DF5 /* SaveFilmView.swift */,
 				8AF7D98E28E5E1460025EBB4 /* AppDelegate.swift */,
 				8AF7D99028E5E1460025EBB4 /* SceneDelegate.swift */,
 				8AF7D99228E5E1460025EBB4 /* ViewController.swift */,
+				049428F42979D43D002168B8 /* Cell.xib */,
+				049428F62979D52E002168B8 /* Cell.swift */,
 				8AF7D99428E5E1460025EBB4 /* Main.storyboard */,
 				8AF7D99728E5E1470025EBB4 /* Assets.xcassets */,
 				8AF7D99928E5E1470025EBB4 /* LaunchScreen.storyboard */,
@@ -83,6 +125,11 @@
 			dependencies = (
 			);
 			name = "ios-itmo-2022-assignment2";
+			packageProductDependencies = (
+				046BA8392979FF2D0000A40F /* Collections */,
+				046BA83B2979FF2D0000A40F /* DequeModule */,
+				046BA83D2979FF2D0000A40F /* OrderedCollections */,
+			);
 			productName = "ios-itmo-2022-assignment2";
 			productReference = 8AF7D98B28E5E1460025EBB4 /* ios-itmo-2022-assignment2.app */;
 			productType = "com.apple.product-type.application";
@@ -111,6 +158,9 @@
 				Base,
 			);
 			mainGroup = 8AF7D98228E5E1450025EBB4;
+			packageReferences = (
+				046BA8382979FF2D0000A40F /* XCRemoteSwiftPackageReference "swift-collections" */,
+			);
 			productRefGroup = 8AF7D98C28E5E1460025EBB4 /* Products */;
 			projectDirPath = "";
 			projectRoot = "";
@@ -125,8 +175,15 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				04B9FF6D2979B5D2008E9DF5 /* okSave.png in Resources */,
+				049428F52979D43D002168B8 /* Cell.xib in Resources */,
+				04B9FF6B2979B5D2008E9DF5 /* saveButton.jpg in Resources */,
+				04B9FF6A2979B5D2008E9DF5 /* Primary.png in Resources */,
+				049428F12979CFAD002168B8 /* StarActive.png in Resources */,
 				8AF7D99B28E5E1470025EBB4 /* LaunchScreen.storyboard in Resources */,
 				8AF7D99828E5E1470025EBB4 /* Assets.xcassets in Resources */,
+				04B9FF6E2979B5D2008E9DF5 /* save.pdf in Resources */,
+				049428F32979CFF2002168B8 /* Star.png in Resources */,
 				8AF7D99628E5E1460025EBB4 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -139,7 +196,12 @@
 			buildActionMask = 2147483647;
 			files = (
 				8AF7D99328E5E1460025EBB4 /* ViewController.swift in Sources */,
+				04B9FF702979B5D2008E9DF5 /* Star.swift in Sources */,
+				04B9FF712979B5D2008E9DF5 /* SaveFilmView.swift in Sources */,
 				8AF7D98F28E5E1460025EBB4 /* AppDelegate.swift in Sources */,
+				04B9FF722979B5D2008E9DF5 /* Stars.swift in Sources */,
+				049428F72979D52E002168B8 /* Cell.swift in Sources */,
+				04B9FF6F2979B5D2008E9DF5 /* CategoryView.swift in Sources */,
 				8AF7D99128E5E1460025EBB4 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -356,6 +418,35 @@
 			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
+
+/* Begin XCRemoteSwiftPackageReference section */
+		046BA8382979FF2D0000A40F /* XCRemoteSwiftPackageReference "swift-collections" */ = {
+			isa = XCRemoteSwiftPackageReference;
+			repositoryURL = "https://github.com/apple/swift-collections.git";
+			requirement = {
+				kind = upToNextMajorVersion;
+				minimumVersion = 1.0.0;
+			};
+		};
+/* End XCRemoteSwiftPackageReference section */
+
+/* Begin XCSwiftPackageProductDependency section */
+		046BA8392979FF2D0000A40F /* Collections */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 046BA8382979FF2D0000A40F /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = Collections;
+		};
+		046BA83B2979FF2D0000A40F /* DequeModule */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 046BA8382979FF2D0000A40F /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = DequeModule;
+		};
+		046BA83D2979FF2D0000A40F /* OrderedCollections */ = {
+			isa = XCSwiftPackageProductDependency;
+			package = 046BA8382979FF2D0000A40F /* XCRemoteSwiftPackageReference "swift-collections" */;
+			productName = OrderedCollections;
+		};
+/* End XCSwiftPackageProductDependency section */
 	};
 	rootObject = 8AF7D98328E5E1450025EBB4 /* Project object */;
 }
